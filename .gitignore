@@ -1,0 +1,13 @@
+# Compiled artifacts
+*.exe
+*.pdb
+*.zip
+bin/
+obj/
+.vs/
+
+# Machine-local settings
+proxy.dat
+*.user
+*.suo
+.vscode/
