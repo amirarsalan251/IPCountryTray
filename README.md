@@ -26,6 +26,9 @@ IPCountryTray is a small Windows utility that displays your public IP address an
 
 ### Getting started
 
+**Download for Windows:** [IPCountryTray v1.0 ZIP](https://github.com/amirarsalan251/IPCountryTray/raw/main/downloads/IPCountryTray_v1.0.zip).
+
+
 1. Extract the release archive and run `IPCountryTray.exe`. No installer is required.
 2. Open the popup by clicking the icon in the Windows notification area.
 3. Select **DIRECT IP** to view the public IP of your direct connection.
@@ -89,6 +92,8 @@ This builds `Program.cs` into `IPCountryTray.exe` using the Windows .NET Framewo
 </ul>
 
 <h3>روش اجرا و استفاده</h3>
+
+<p><strong>دانلود نسخه ویندوز:</strong> <a href="https://github.com/amirarsalan251/IPCountryTray/raw/main/downloads/IPCountryTray_v1.0.zip">دریافت IPCountryTray v1.0 (ZIP)</a></p>
 
 <ol>
 <li>فایل ZIP نسخه انتشار را استخراج و <code>IPCountryTray.exe</code> را اجرا کنید؛ نیازی به نصب برنامه نیست.</li>
