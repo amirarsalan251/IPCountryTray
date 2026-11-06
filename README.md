@@ -57,9 +57,6 @@ This builds `Program.cs` into `IPCountryTray.exe` using the Windows .NET Framewo
 - Locations are **IP-based estimates**, not GPS coordinates; city, region, and provider data may be inaccurate.
 - This tool checks connectivity and public IP information. It does **not** configure a system-wide proxy or VPN.
 
-### Version and repository
-
-**v1.0.0** is the initial compact two-tab release. For GitHub, commit the source code, project file, build script, `.gitignore`, and this README. Publish the executable archive as a GitHub Release asset rather than committing binaries to source control.
 
 ---
 
@@ -131,8 +128,6 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 <li>برنامه فقط اطلاعات IP عمومی را بررسی می‌کند و تنظیمات VPN یا پروکسی کل سیستم را تغییر نمی‌دهد.</li>
 </ul>
 
-<h3>نسخه و انتشار</h3>
-
-<p><strong>v1.0.0</strong> اولین نسخه رسمی با پنجره کوچک و دو تب است. برای انتشار در GitHub، سورس، فایل پروژه، اسکریپت Build، فایل <code>.gitignore</code> و همین README را در مخزن قرار دهید. بهتر است فایل اجرایی یا ZIP را به‌عنوان <strong>GitHub Release</strong> منتشر کنید، نه در تاریخچه سورس.</p>
+منتشر کنید، نه در تاریخچه سورس.</p>
 
 </div>
